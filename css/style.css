@@ -1,0 +1,116 @@
+body {
+    background: #000000;
+    font-family: 'Poppins', sans-serif;
+    background: url(../img/body-background.png);
+    background-size: cover;
+
+}
+
+.ustlink{
+    text-decoration: none;
+    margin-left: 50px;
+    color: white;
+
+}
+
+.ustlink:hover {
+    border-bottom-color: aqua;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    color: aqua;
+    transition: .2s linear;
+
+}
+
+#ustmenu-arkaplan {
+    padding: 12px;
+    position: sticky;
+    top: 0;
+}
+
+.ustmenu-pozisyon {
+    text-align: center;
+}
+
+.menuborder {
+    color: aqua;
+}
+
+
+#kisatanitim-arkaplan {
+    width: 100%;
+    height: 1000px;
+    background: black;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: Raleway, sans-serif;
+    margin-top: 115px;
+    font-size: 60px;
+}
+
+
+p {
+    font-family: 'Architects Daughter', cursive;
+    color: white;
+    text-align: center;
+    font-size: 17px;  
+    margin-bottom: 30px;
+}
+
+.sosyalmedya{
+    margin-left: 660px;
+}
+
+.smalt{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    margin-right: 50px;
+   
+}
+
+
+.smalt:hover{
+    color: aqua;
+    opacity: 0.5;
+    transition: .2s linear;
+    
+}
+
+.discord{
+    margin-top: 60px;
+    text-align: center;
+}
+
+.dcbtn{
+    text-decoration: none;
+    color: white;
+    border: 1px solid aqua;
+    padding: 10px 20px;
+    border-radius: 6px;
+    text-align: center;
+}
+
+.dcbtn:hover{
+    background: #11bfbf;
+    transition: .2s linear;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
